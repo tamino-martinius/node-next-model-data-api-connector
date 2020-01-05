@@ -32,7 +32,7 @@ class DataApiConnector {
         if (this.debug) {
             const endTime = this.currentMilliseconds();
             const elapsedTime = endTime - startTime;
-            console.log([sql, `${elapsedTime.toFixed(3)} ms\n`].join(' | '));
+            console.log([sqlStatement, JSON.stringify(params), `${elapsedTime.toFixed(3)} ms\n`].join(' | '));
         }
         return result.records;
     }
