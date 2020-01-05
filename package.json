@@ -1,6 +1,6 @@
 {
   "name": "@next-model/data-api-connector",
-  "version": "1.0.0-alpha.9",
+  "version": "1.0.0-alpha.1",
   "description": "Connector for AWS Aurora Data API.",
   "author": "Tamino Martinius <dev@zaku.eu>",
   "license": "MIT",
