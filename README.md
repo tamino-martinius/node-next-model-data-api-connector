@@ -1,3 +1,6 @@
+> [!WARNING]
+> This package is deprecated and has been moved to the [`node-next-model` monorepo](https://github.com/tamino-martinius/node-next-model) for v1 and later versions.
+
 # AWS Aurora Data API Connector
 
 Data API connector for [NextModel](https://github.com/tamino-martinius/node-next-model). [![Build Status](https://travis-ci.org/tamino-martinius/node-next-model-data-api-connector.svg?branch=master)](https://travis-ci.org/tamino-martinius/node-next-model-data-api-connector)
